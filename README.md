@@ -13,7 +13,7 @@ Wi-Fi_Set Is a program for studies of network security, how you can obtain passw
 0 - Download wi-fi_set at www.skullhunters.esy.es
 
 1 - Add permissions to files:
-open a terminal and type chmod -R 777 airset
+open a terminal and type chmod -R 777 wi-fi_set
 
 
 2 - Install the dependencies:
@@ -47,7 +47,7 @@ www.youtube.com/c/SkullHunters
 0 - Baixe o wi-fi_set no site www.skullhunters.esy.es/skull/news/downloads
 
 1 - Adicionar permissoes nos arquivos: 
-abra um terminal e digite chmod -R 777 airset
+abra um terminal e digite chmod -R 777 wi-fi_set
 
 
 2 - Instalar as dependências:
